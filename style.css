@@ -514,13 +514,13 @@ p {
   
 #hobies .box img {
     width: 400%;
-    height: calc(100%);
-    object-fit: cover; 
+    height: 100%;
+    object-fit: fill; 
     transition: 1s;
 }
   
 #hobies .box:hover {
-    flex: 1 1 80%; 
+    flex: 1 1 60%; 
     transform: scale(1.1);
 }
 
