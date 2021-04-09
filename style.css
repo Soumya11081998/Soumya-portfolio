@@ -228,7 +228,7 @@ p {
 
 /* home Section Style Start */
 #home {
-    background-image: url('./resources/background.jpg');
+    background-image: url(/resources/background.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -333,7 +333,7 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url("/resources/florida-sunrise-8k-br-7680x4320.jpg");
+    background-image: url(/Resources/florida-sunrise-8k-br-7680x4320.jpg);
     margin: 10px 5%;
     position: relative;
     z-index: 1;
