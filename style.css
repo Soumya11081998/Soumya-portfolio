@@ -520,7 +520,7 @@ p {
 }
   
 #hobies .box:hover {
-    flex: 1 1 50%; 
+    flex: 1 1 80%; 
     transform: scale(1.1);
 }
 
