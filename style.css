@@ -228,7 +228,7 @@ p {
 
 /* home Section Style Start */
 #home {
-    background-image: url(https://github.com/Soumya11081998/Soumya-portfolio/blob/main/resources/background.jpg);
+    background-image: url(/resources/background.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
